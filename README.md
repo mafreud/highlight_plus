@@ -1,4 +1,8 @@
-# highlight.dart
+# Disclaimer
+
+Since the original repository was not maintained for a few years, I forked the repo.
+
+# highlight_plus
 
 Syntax highlighting for Dart and Flutter, which supports lots of languages and themes.
 
